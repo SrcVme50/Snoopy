@@ -3,7 +3,7 @@ Snoopy of HTB
 
 sdd.py
 
-该Python插件用于HTB赛季靶场的Snoopy靶机，作用为任意文件读取，由Fonllge大佬制作
+该Python插件用于HTB赛季靶场的Snoopy靶机，作用为任意文件读取，由harusaruhi大佬制作
 
 ----------------------------------------------------------------------
 
